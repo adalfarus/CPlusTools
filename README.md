@@ -1,2 +1,2 @@
 # CPlusTools
- The C version of APlusTools
+ The C/C++ version of APlusTools
